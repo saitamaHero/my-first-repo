@@ -2,4 +2,6 @@ Hello everyone!
 
 This is a text file.
 
-Hab�a una vez una persona que le gustaba programar.
+Había una vez una persona que le gustaba programar.
+
+But se murió alv.
